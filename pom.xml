@@ -15,7 +15,7 @@
     <repositories>
         <repository>
             <id>maven</id>
-            <url>http://46.41.135.99:8081/artifactory/libs-release-local/</url>
+            <url>https://nexus.jsql.it/nexus/content/repositories/releases/</url>
         </repository>
     </repositories>
 
